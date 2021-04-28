@@ -1,14 +1,14 @@
 {
-  "name": "hadv-book",
-  "short_name": "hadv-book",
-  "start_url": "/hadv-book/",
-  "scope": "/hadv-book/",
+  "name": "test-hadv-book",
+  "short_name": "test-hadv-book",
+  "start_url": "/test-hadv-book/",
+  "scope": "/test-hadv-book/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/hadv-book/favicon.svg",
+      "src": "/test-hadv-book/favicon.svg",
       "sizes": "512x512"
     }
   ]

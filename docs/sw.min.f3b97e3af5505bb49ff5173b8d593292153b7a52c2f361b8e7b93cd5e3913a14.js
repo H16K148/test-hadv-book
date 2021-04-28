@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/test-hadv-book/sw.js",{scope:"/test-hadv-book/"})

@@ -7,7 +7,7 @@
 ## Mounts Config for an alternative way to configure this directory (from Hugo 0.56).
 #assetDir = "assets"
 ## Hostname (and path) to the root, e.g. https://bep.is/
-baseURL = "https://localhost/hadv-book/"
+baseURL = "https://localhost/test-hadv-book/"
 ## See Configure Blackfriday
 #blackfriday =
 ## See https://gohugo.io/getting-started/configuration/#configure-build
@@ -149,7 +149,7 @@ theme = "book"
 ## contents) you might need to raise this limit.
 #timeout = 10000
 ## Site title.
-title = "hadv-book"
+title = "test-hadv-book"
 ## See https://gohugo.io/getting-started/configuration/#configure-title-case
 #titleCaseStyle = "AP"
 ## When enabled, creates URL of the form /filename.html instead of /filename/.
@@ -198,7 +198,7 @@ verboseLog = true
   BookSection = 'docs'
   ## Set source repository location.
   ## Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/H16K148/hadv-book'
+  BookRepo = 'https://github.com/H16K148/test-hadv-book'
   ## Enable 'Edit this page' links for 'doc' page type.
   ## Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   ## Path must point to the site directory.

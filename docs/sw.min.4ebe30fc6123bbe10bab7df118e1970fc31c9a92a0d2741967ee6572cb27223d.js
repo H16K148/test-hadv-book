@@ -1,1 +1,0 @@
-navigator.serviceWorker&&navigator.serviceWorker.register("/hadv-book/sw.js",{scope:"/hadv-book/"})
